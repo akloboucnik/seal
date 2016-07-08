@@ -1,0 +1,67 @@
+# Please insert new items alphabetically.
+
+gdc-analytical-designer:
+  members:
+    - akloboucnik
+    - crudo
+    - vaclavbohac
+    - vojty
+    - bredy
+    - dprentis
+
+  channel:
+    '#analyticaldesigner'
+
+  exclude_repos:
+    - gdc-client
+    - gd-labs
+    - gdc-webapp
+    - grunt-ember-handlebars
+    - gdc-dashboards
+    - gdc-indigo-visualizations
+
+  use_labels: true
+
+  exclude_labels:
+    - do-not-merge
+    - 'do not merge'
+
+  quotes:
+    - ':rage4: :rage4: :rage4: @vojty, @jan.pradac, @daniel, @vaclavbohac, @crudo and @klob please check this list so that your colleagues do not suffer for you slacking from code reviews!!'
+
+gdc-client:
+  members:
+    - akloboucnik
+    - crudo
+
+  channel:
+    '#lhv-ui'
+  #
+  # exclude_titles:
+  #   - "[DO NOT MERGE]"
+  #   - DO NOT MERGE
+  #   - WIP
+  #   - "[DO NOT SEAL]"
+  #   - "[DON'T SEAL]"
+  #   - DO NOT SEAL
+  #   - DON'T SEAL
+
+  exclude_repos:
+    - gd-labs
+    - gdc-webapp
+    - gdc-indigo-reporter
+    - grunt-ember-handlebars
+    - gdc-dashboards
+    - gdc-analytical-designer
+    - gdc-indigo-visualizations
+    - gooddata-js
+
+  use_labels: true
+
+  exclude_labels:
+    - do-not-merge
+    - 'do not merge'
+
+  quotes:
+    - ':rage4: :rage4: :rage4: @crudo and @klob - please check these'
+
