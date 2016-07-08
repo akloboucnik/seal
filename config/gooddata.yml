@@ -32,6 +32,9 @@ gdc-client:
   members:
     - akloboucnik
     - crudo
+    - phthong
+    - lvkhanh
+    - ndnquang
 
   channel:
     '#lhv-ui'
