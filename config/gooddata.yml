@@ -18,7 +18,6 @@ gdc-analytical-designer:
     - gdc-webapp
     - grunt-ember-handlebars
     - gdc-dashboards
-    - gdc-indigo-visualizations
 
   use_labels: true
 
